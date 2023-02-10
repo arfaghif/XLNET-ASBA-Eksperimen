@@ -1,0 +1,23 @@
+text_a,text_b,label,pred,pred2
+memang kalo body kalah pajero tapi kalo mesin pasti pajero,part,0,1,1
+Mazda itu desain nya bulat-bulat unik dan halus banget.,part,1,0,0
+mobil xenia atau avanza yang laku nya mirip kacang goreng bukanlah depresiasi harga yang kita dapat malah melainkan ada apresiasi harga,price,1,0,0
+"Gw pernah naik Fortuner keras bgt coy , kata nya enakan pajero",others,1,0,0
+kalo cuma buat dipakai 2 atau 3 tahun mah mending beli toyota calya aja nilai jual nya tinggi,price,1,0,0
+Motor mengapa gak Suzuki aja pak ? harga relatif lebih murah dibanding kompetitor .,price,1,0,0
+Kalo kenyamanan ya juara nya pajero lebih empuk terus jok nya pajero lebih tebel kalo fortuner suspensi nya parah keras banget terus jok nya keras,others,1,0,0
+Calya tidak kalah dengan kualitas mobil-mobil mahal lainnya .,others,1,0,0
+Jazz memang nyaman dikendarai tetapi sayang nya tidak didukung kinerja bengkel yang selevel .,others,1,0,0
+@ivangreen_99 : Bengkel Honda no 1 dewi Sartika ga jamin puas servis nya .,service,0,1,1
+fortuner kok boros banget ya tiap hari harus isi bensin tapi selain itu oke semua sih .,others,1,0,0
+cuma nunggu sejam udah bener mantap kali service dari nissan,service,1,0,0
+sama kayak brio saya juga sudah 3 tahun pakai enggak ada masalah .,others,1,0,0
+"Enggak menyesal beli nya walaupun harga nya mahal , sesuailah . pokok nya saya cinta Love Nmax",others,1,0,0
+avanza kalau lagi high speed 100 kpj / 3000 rpm suara mesin sudah masuk ke kabin .,machine,0,1,1
+"Tapi orang indonesia itu tetap mikir layanan purnajual , jelas toyota menang telak di sektor ini .",service,1,0,0
+"Kalo dana agak mepet , mending ambil New Ertiga",price,1,0,0
+"Avanza saja pak harga jual paling mantap , muat banyak , cara toyota gitu lo cuma sayang nya kemungkinan akan naik + / - 3,4 juta",part,1,0,0
+"Avanza saja pak harga jual paling mantap , muat banyak , cara toyota gitu lo cuma sayang nya kemungkinan akan naik + / - 3,4 juta",price,1,0,0
+"HRV Mobil idaman banget sih dari dulu , mana lagi suara nya buat hati si eneng meleleh",machine,1,0,0
+"HRV Mobil idaman banget sih dari dulu , mana lagi suara nya buat hati si eneng meleleh",others,1,0,0
+"Daihatsu New Ayla bodi nya ciamik banget , begitu sporty .",part,1,0,0

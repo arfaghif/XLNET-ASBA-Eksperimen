@@ -1,0 +1,24 @@
+text_a,text_b,label,pred,pred2
+memang kalo body kalah pajero tapi kalo mesin pasti pajero,part,0,1,1
+menurut saya kemahalan sih kalo harga honda brio sampai di atas 150 juta,price,0,1,1
+semua Xe itu kopling nya keras,part,0,1,1
+mobilio lebih stabil tenaga nya saat digunakan berkendara daripada agya yang gak stabil,machine,0,1,1
+"Grand livina 2011 sampai sekarang enak lari , tapi suara pintu nya keras kalau ditutup .",machine,1,0,0
+Motor mengapa gak Suzuki aja pak ? harga relatif lebih murah dibanding kompetitor .,price,1,0,1
+aneh nya kaki-kaki mobil HRV saya sangat berisik . Berisik sekali .,part,0,1,1
+Kalo kenyamanan ya juara nya pajero lebih empuk terus jok nya pajero lebih tebel kalo fortuner suspensi nya parah keras banget terus jok nya keras,part,0,1,1
+enak banget jalan-jalan pake ertiga gak kaya avanza yang bikin emosi .,others,0,1,1
+Calya tidak kalah dengan kualitas mobil-mobil mahal lainnya .,others,1,0,1
+"Nih harga Suzuki New Ertiga , lebih mahal 2 - 5 juta dari yang sebelumnya",price,0,1,1
+Jazz memang nyaman dikendarai tetapi sayang nya tidak didukung kinerja bengkel yang selevel .,service,0,1,1
+saya punya ertiga yang kalo ac udah nyala kaya gak ada ac nya tetap panas,part,0,1,1
+@ivangreen_99 : Bengkel Honda no 1 dewi Sartika ga jamin puas servis nya .,service,0,1,1
+fortuner kok boros banget ya tiap hari harus isi bensin tapi selain itu oke semua sih .,others,1,0,0
+"@AstraHondaCare kecewa sama pelayanan bengkel resmi honda yang di balaraja , lebih tepat nya di depan gerbang permata balaraja , servis mahal dikira makin bagus eh malah kebalikan nya ,",service,0,1,1
+servis nya payah masa mobil udah 3 bulan di bengkel belum bener-bener kecewa sama toyota,service,0,1,1
+"Sedikit kecewa nih gue beli XeLi , enggak dapat bonus cuma diskon saja 4 juta , lihat di atas-atas banyak yang dapat bonus .",others,0,1,1
+"Enggak menyesal beli nya walaupun harga nya mahal , sesuailah . pokok nya saya cinta Love Nmax",price,0,1,1
+avanza kalau lagi high speed 100 kpj / 3000 rpm suara mesin sudah masuk ke kabin .,machine,0,1,1
+"Xenia ini material nya enggak begitu bagus ,",part,0,1,0
+"Punya Kakak saya HRV - nya kursi nya berjamur ,",part,0,1,1
+"Kalo dana agak mepet , mending ambil New Ertiga",price,1,0,0

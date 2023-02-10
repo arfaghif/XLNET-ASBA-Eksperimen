@@ -1,0 +1,10 @@
+text_a,text_b,label,pred,pred2
+memang kalo body kalah pajero tapi kalo mesin pasti pajero,machine,1,0,0
+"Grand livina 2011 sampai sekarang enak lari , tapi suara pintu nya keras kalau ditutup .",machine,1,0,1
+Motor mengapa gak Suzuki aja pak ? harga relatif lebih murah dibanding kompetitor .,price,1,0,0
+enak banget jalan-jalan pake ertiga gak kaya avanza yang bikin emosi .,others,0,1,1
+@ivangreen_99 : Bengkel Honda no 1 dewi Sartika ga jamin puas servis nya .,service,0,1,1
+"Sedikit kecewa nih gue beli XeLi , enggak dapat bonus cuma diskon saja 4 juta , lihat di atas-atas banyak yang dapat bonus .",others,0,1,1
+avanza kalau lagi high speed 100 kpj / 3000 rpm suara mesin sudah masuk ke kabin .,machine,0,1,1
+"Kalo dana agak mepet , mending ambil New Ertiga",price,1,0,0
+"Avanza saja pak harga jual paling mantap , muat banyak , cara toyota gitu lo cuma sayang nya kemungkinan akan naik + / - 3,4 juta",part,1,0,1
