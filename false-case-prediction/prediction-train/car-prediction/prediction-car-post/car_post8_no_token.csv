@@ -1,0 +1,20 @@
+text_a,text_b,label,pred,pred2
+memang kalo body kalah pajero tapi kalo mesin pasti pajero,machine,1,0,1
+mobil xenia atau avanza yang laku nya mirip kacang goreng bukanlah depresiasi harga yang kita dapat malah melainkan ada apresiasi harga,price,1,0,0
+"Gw pernah naik Fortuner keras bgt coy , kata nya enakan pajero",others,1,0,1
+kalo cuma buat dipakai 2 atau 3 tahun mah mending beli toyota calya aja nilai jual nya tinggi,price,1,0,1
+"Grand livina 2011 sampai sekarang enak lari , tapi suara pintu nya keras kalau ditutup .",machine,1,0,0
+Motor mengapa gak Suzuki aja pak ? harga relatif lebih murah dibanding kompetitor .,price,1,0,0
+Kalo kenyamanan ya juara nya pajero lebih empuk terus jok nya pajero lebih tebel kalo fortuner suspensi nya parah keras banget terus jok nya keras,others,1,0,0
+Calya tidak kalah dengan kualitas mobil-mobil mahal lainnya .,others,1,0,1
+@ivangreen_99 : Bengkel Honda no 1 dewi Sartika ga jamin puas servis nya .,service,0,1,1
+fortuner kok boros banget ya tiap hari harus isi bensin tapi selain itu oke semua sih .,others,1,0,0
+"menurut saya , untuk sekarang ini hanya mobilio yang punya kelebihan di tenaga mesin",machine,1,0,1
+cuma nunggu sejam udah bener mantap kali service dari nissan,service,1,0,1
+suka sama after sales service nya nissan yang murah,service,1,0,1
+sama kayak brio saya juga sudah 3 tahun pakai enggak ada masalah .,others,1,0,1
+"Enggak menyesal beli nya walaupun harga nya mahal , sesuailah . pokok nya saya cinta Love Nmax",price,0,1,1
+avanza kalau lagi high speed 100 kpj / 3000 rpm suara mesin sudah masuk ke kabin .,machine,0,1,1
+"Tapi orang indonesia itu tetap mikir layanan purnajual , jelas toyota menang telak di sektor ini .",service,1,0,1
+"Kalo dana agak mepet , mending ambil New Ertiga",price,1,0,0
+"Daihatsu New Ayla bodi nya ciamik banget , begitu sporty .",part,1,0,0
