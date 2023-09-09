@@ -1,4 +1,4 @@
-# TRANSFER LEARNING PRETRAINED XLNET MODEL FORINDONESIAN ASPECT-BASED SENTIMENT CLASSIFICATION
+# TRANSFER LEARNING PRETRAINED XLNET MODEL FORINDONESIAN ASPECT-BASED SENTIMENT CLASSIFICATION (FINAL PROJECT)
 
 Aspect-based sentiment analysis (ABSA) is widely used in product and service company. One of the tasks in ASBA modeling is the classification of sentiments for a given aspect. Building an automation model requires a lot of data resources, lack of available labeled data and consumes a lot of time and costs. After the transformer-based model was proposed, it prompted a large number of studies using transformer-based transfer learning models to complete many tasks in natural language processing.
 
